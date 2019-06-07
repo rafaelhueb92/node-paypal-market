@@ -1,0 +1,22 @@
+{
+    "credits":[{
+        "id":1,
+        "titulo":"Básico",
+        "descricao":"Pacote básico",
+        "preco":100,
+        "credito":100
+    },{
+        "id":2,
+        "titulo":"Chopeiro",
+        "descricao":"Pacote Médio",
+        "preco":200,
+        "credito":200
+    },{
+        "id":3,
+        "titulo":"Euro Chopeiro",
+        "descricao":"Pacote Master",
+        "preco":500,
+        "credito":800
+    }]
+}
+
